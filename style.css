@@ -104,7 +104,7 @@ p{
     left: 3%;
     width: 95%;
     height: 40%;
-    background-color: #212121;
+    background-color: #000000;
     transition: 0.5s;
     transform-origin: center;
   }
@@ -117,7 +117,7 @@ p{
     left: 3%;
     width: 95%;
     height: 40%;
-    background-color: #212121;
+    background-color: #000000;
     transition: 0.5s;
   }
   
