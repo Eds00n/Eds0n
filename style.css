@@ -4,9 +4,7 @@
 }
 
 body{
-    background: url(https://e0.pxfuel.com/wallpapers/442/247/desktop-wallpaper-black-background-papel-de-parede-com-fundo-preto-black-paisley.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(2, 2, 2);
     font-family: 'PT Sans Narrow', sans-serif;
     color: rgb(34, 34, 34);
 }
